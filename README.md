@@ -1,4 +1,4 @@
-# iTerm Deafults
+# iTerm Defaults
 
 This repo contains the colours and details of the defaults I use for iTerm. To add the colours, navigate to `Profiles > Colours` in iTerm and import `mitchell.itermcolors`. It will then appear under `Color Presets`
 
