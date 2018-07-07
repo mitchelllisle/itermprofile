@@ -8,3 +8,5 @@ This repo contains the colours and details of the defaults I use for iTerm. To a
 These are the other settings I configure:
 
 <img width="882" alt="screen shot 2018-07-07 at 4 50 06 pm" src="https://user-images.githubusercontent.com/18128531/42407841-dcdb02b0-8205-11e8-8bc4-ba541858b9ea.png">
+
+<img width="1030" alt="screen shot 2018-07-07 at 6 39 46 pm" src="https://user-images.githubusercontent.com/18128531/42408887-397a03b8-8215-11e8-8ac6-f21e8969736e.png">
